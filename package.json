@@ -1,0 +1,22 @@
+{
+  "name": "gwin-project",
+  "version": "1.0.0",
+  "description": "Architectural",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisonpeakgroup/gwinProject.git"
+  },
+  "keywords": [
+    "gwin"
+  ],
+  "author": "Ubine Musa JOseph And Godwin Cletus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pisonpeakgroup/gwinProject/issues"
+  },
+  "homepage": "https://github.com/pisonpeakgroup/gwinProject#readme"
+}
